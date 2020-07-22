@@ -1,0 +1,25 @@
+SORU FORMATI VE UYARILAR ----------------------------------------------------------------------------------------------------------------------
+
+Soru içerisinde Türkçe karakter kullanılmamalıdır.
+Doğru cevap String'inde boşluk veya harf hatasına dikkat edilmelidir.
+Sorular arasına boşluk konulmamalıdır.
+Soru aşağıdaki örnek formata uygun oluşturulmalıdır.
+
+Örnek Soru: 
+--------------------------------------------------------------------
+Soru ID
+Soru Metni
+A Şıkkı
+B Şıkkı
+C Şıkkı    
+D Şıkkı
+Doğru Cevap
+--------------------------------------------------------------------
+2
+Karadeliklerin radyasyon yaydigini one suren unlu fizikci kimdir?
+Stephen Hawking
+Michael Faraday
+Albert Einstein
+Isaac Newton
+Stephen Hawking
+--------------------------------------------------------------------
